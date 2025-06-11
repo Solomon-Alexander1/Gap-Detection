@@ -19,7 +19,10 @@ It uses YOLOv8 to detect and measure the gap between two objects, and also to de
 2. Run any script:
 
 ## Demo Video
+- 📏 [Gap Detection Demo](https://github.com/Solomon-Alexander1/Gap-Number-Detection/blob/main/Gap%20No%20Gap%20Detection.mp4)
+- 🔢 [Number Detection Demo](https://github.com/Solomon-Alexander1/Gap-Number-Detection/blob/main/Number%20Detection%20Final.mkv)
 
+> Click the links to download or view the raw video on GitHub.
 
 
 ## Author
