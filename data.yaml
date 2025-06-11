@@ -1,0 +1,6 @@
+path: C:/yolov8_project/dataset1
+train: C:/yolov8_project/dataset1/images/train
+val: C:/yolov8_project/dataset1/images/val
+
+nc: 3
+names: ["Filling", "Filled", "Overfilled"]
